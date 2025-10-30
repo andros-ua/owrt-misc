@@ -1,3 +1,4 @@
+```
 OpenWrt U-Boot flash instructions
 ---------------------------------
 1. Flash ordinary OpenWrt image.
@@ -13,3 +14,4 @@ OpenWrt U-Boot flash instructions
 6. Serve OpenWrt initramfs image using TFTP server.
 7. Reboot device, wait for TFTP recovery to complete.
 8. After OpenWrt has booted, perform sysupgrade.
+```
