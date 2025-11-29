@@ -1,3 +1,4 @@
+```
 This commit introduces OpenWrt U-Boot layout support
 for the CreatLentem CLT-R30B1, enabling:
 - Open-source U-Boot with an effective recovery mechanism
@@ -24,3 +25,4 @@ BL2 and FIP Recovery
 --------------------
 Use mtk_uartboot to recover corrupted BL2 or FIP via UART:
 https://github.com/981213/mtk_uartboot
+```
