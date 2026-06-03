@@ -1,4 +1,4 @@
-# unbrick — MTK Router Recovery Utility
+# [unbrick](https://github.com/andros-ua/unbrick) — MTK Router Recovery Utility
 
 A Windows batch script for unbricking MediaTek-based routers over UART. Loads a BL2 preloader and U-Boot FIP image via [`mtk_uartboot`](https://github.com/981213/mtk_uartboot), then drops you straight into a serial console — with an optional TFTP server for sysupgrade image transfer. Everything you need to go from a dead router to a running OpenWrt install in one sitting.
 
