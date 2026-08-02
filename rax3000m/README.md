@@ -1,0 +1,1 @@
+CMCC RAX3000M(e)
