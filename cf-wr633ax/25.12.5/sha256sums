@@ -1,0 +1,6 @@
+b8cc27fb58b8b6b7b0347834c5011a18f135dfc6ddd4927ceb300e2024042f0f *openwrt-25.12.5-mediatek-filogic-comfast_cf-wr633ax-initramfs-kernel.bin
+4d610ec964286c20b063e81885d3a8bbceb71cd76afe7c14368c0ddd38e8f897 *openwrt-25.12.5-mediatek-filogic-comfast_cf-wr633ax-squashfs-sysupgrade.bin
+261ac6afa39c72814405417942aa818ce20370ad8a0fcc80f01bde35613a88ed *openwrt-25.12.5-mediatek-filogic-comfast_cf-wr633ax-ubi-bl31-uboot.fip
+30c593605945b522737a71d91d2319d525985315414cb8260ea8fb1e85aa8d14 *openwrt-25.12.5-mediatek-filogic-comfast_cf-wr633ax-ubi-initramfs-recovery.itb
+6c4f7e575fe00c59a9d16210328d2ada650784f1c2ac979bad5daba5dc0e261b *openwrt-25.12.5-mediatek-filogic-comfast_cf-wr633ax-ubi-preloader.bin
+cf406ad8301f9a40fd97e0d6941ab990d0cd325ffe7fe2ef0b07eb386fb82c0a *openwrt-25.12.5-mediatek-filogic-comfast_cf-wr633ax-ubi-squashfs-sysupgrade.itb
